@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">بيت السيارة</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">البريد</string>
+    <string name="prompt_password">كلمة المرور</string>
+    <string name="action_sign_in">تسجيل الدخول او انشاء حساب</string>
+    <string name="action_sign_in_short">تسجيل الدخول</string>
+    <string name="invalid_username">اسم المستخدم غير صحيح</string>
+    <string name="invalid_password">يجب أن تحتوي كلمة المرور على 8 أحرف على الأقل ، بما في ذلك حرف واحد صغير على الأقل وحرف واحد كبير ورقم واحد وعلامة ترقيم واحدة</string>
+    <string name="login_failed">"فشل تسجيل الدخول"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="join_us">انضم الينا</string>
+    <string name="enter_your_email_adress">ادخل بريدك الالكتروني</string>
+    <string name="enter_your_password">أدخل كلمة السر</string>
+    <string name="log_in">تسجيل الدخول</string>
+    <string name="confirm_password">تأكيد كلمة السر</string>
+    <string name="forgot_password">نسيت كلمة السر؟</string>
+    <string name="or">أو</string>
+    <string name="creat_new_account"> انشاء حساب جديد</string>
+    <string name="user_name">الاسم</string>
+    <string name="email_adress">عنوان البريد الالكتروني</string>
+    <string name="password">كلمة السر</string>
+    <string name="phone">الهاتف</string>
+    <string name="register">تسجيل</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <string name="new_offers">العروض الجديدة</string>
+    <string name="nearest_garage">اقرب جراش</string>
+    <string name="find_garage">شوف جراشك</string>
+    <string name="find_in_all_garage">ابحث عن جراشك</string>
+    <string name="last_oper">اخر العمليات</string>
+    <string name="all_opertions">كل العمليات</string>
+    <string name="search_for_garage">اوجد افضل جراش لك</string>
+    <string name="see_all">المزيد</string>
+    <string name="type_op">نوع العملية</string>
+    <string name="from">من</string>
+    <string name="me">انا</string>
+    <string name="to">الي</string>
+    <string name="time">الوقت</string>
+    <string name="place">المكان</string>
+    <string name="price">السعر</string>
+    <string name="price_for_hour">سعر الساعة</string>
+    <string name="reservation">احجز</string>
+    <string name="go_garage">ازهب للجراش</string>
+    <string name="open_menu">افتح</string>
+    <string name="close_menu">اغلق</string>
+    <string name="setting">الاعدادات</string>
+    <string name="log_out">تسجيل خروج</string>
+    <string name="file_info_user">FileInfoUser</string>
+    <string name="edit">edit_icon</string>
+    <string name="newpassword">اضافة رقم سري جديد ؟</string>
+    <string name="edit_address">تعديل العنوان</string>
+    <string name="edit_info">تعديل البيانات</string>
+    <string name="save">حفظ</string>
+    <string name="time_start">"وقت بداية "</string>
+    <string name="time_end">الوقت الانتهاء</string>
+    <string name="expected_price">السعر المتوقع</string>
+    <string name="reservation_now">احجز الان</string>
+    <string name="expected_hour">عدد الساعات للحجز</string>
+    <string name="waiting_requst">في الانتظار</string>
+    <string name="active_requst">جاري الان</string>
+    <string name="finshed_requst">منتهي</string>
+    <string name="requst_type">طلب</string>
+    <string name="accpet_type">مقبول</string>
+    <string name="refusal_type">مرفوض</string>
+    <string name="pay_type">دفع</string>
+    <string name="state_requst">حالة الطلب</string>
+    <string name="type_requst">نوع الطلب</string>
+    <string name="garage_name">اسم الجراش</string>
+    <string name="date">التااريخ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="finshed">انهاء</string>
+    <string name="done">مكتمله</string>
+    <string name="mobil">الهاتف</string>
+    <string name="balance">الرصيد</string>
+    <string name="payment">الدفع</string>
+    <string name="balance_is_not_enough">الرصيد غير كافي</string>
+    <string name="Purchase">اشحن</string>
+    <string name="amount">المبلغ</string>
+    <string name="purchase_now">اشحن الان</string>
+    <string name="balance_details">اعرف تفاصيل رصيد</string>
+    <string name="eg">جنية</string>
+    <string name="current_balance">الرصيد الحالي هو</string>
+    <string name="welcome">مرحبا</string>
+    <string name="please_log">من فضلك ادخل حسابك</string>
+    <string name="login">دخول</string>
+    <string name="sign_up">انشاء حساب</string>
+    <string name="terms_conditions"><u>شروط الخدمة</u></string>
+    <string name="text_log">بالضغط على \"إرسال\" ، فإنك توافق على</string>
+    <string name="reservation_scheduling">جدولة الحجز</string>
+    <string name="please_sign_up">من فضلك سجل حساب</string>
+    <string name="name_invalid">ادخل اسمك</string>
+    <string name="invalid_email">"ادخل البريد "</string>
+    <string name="invalid_phone">ادخل رقم الهاتف</string>
+    <string name="invalid_conform">تأكيد الرقم السري غير صحيح</string>
+    <string name="garage_scl">الجراش المحدد</string>
+    <string name="what_city">ما هي المدينة ؟</string>
+    <string name="click_here">اضغط هنا</string>
+    <string name="address">العنوان</string>
+    <string name="type">النوع</string>
+    <string name="created_date">تاريخ الانشاء</string>
+    <string name="rate">التقيم</string>
+    <string name="todo">TODO</string>
+    <string name="ratings">التقييمات</string>
+    <string name="i_here">انا هنا</string>
+    <string name="not_rate">لا يوجد تقيم بعد</string>
+    <string name="governorate">المحافظة</string>
+    <string name="City">المدينة</string>
+    <string name="country">الدولة</string>
+    <string name="me_location">موقعي</string>
+    <string name="time_past">الوقت في الماضي</string>
+    <string name="booking_expired">الحجز انتهى</string>
+    <string name="purchase">شراء</string>
+    <string name="english">English</string>
+    <string name="arabic">العربية</string>
+    <string name="get_location_automatic">الحصول علي الموقع تلقائي</string>
+    <string name="cities_with_only_garages">المدن التي بقا جراشات فقط</string>
+    <string name="your_balance">رصيدك</string>
+    <string name="cost_reservation">تكلفة الحجز</string>
+    <string name="all_garage_in_city">كل الجراشات في المدينة</string>
+    <string name="search_city">البحث في المدينة</string>
+    <string name="round_time">الدوره</string>
+    <string name="total">الاجمالي</string>
+    <string name="Sorry_no_operations_yet">معذره , لا يوجد عمليات لديك حتي الان</string>
+    <string name="rate_reservation">قيم الحجز</string>
+    <string name="old_pass_worng">كلمة المرور القديمة خاطئة</string>
+    <string name="ake_sure_password">تأكد من إدخال كلمة المرور القديمة</string>
+    <string name="skip">تخطي</string>
+    <string name="old_password">كلمة السر القديمة</string>
+    <string name="new_password">كلمة السر الجديدة</string>
+    <string name="confirm_new_password">تأكيد كلمة السر الجديدة</string>
+    <string name="Password_Successfully_Modified">تم تعديل كلمة السر بنجاح</string>
+    <string name="something_went_wrong">حدث خطئ ما , برجاء اعادة المحاولة</string>
+    <string name="btn_reset_password">اعادة تعين كلمة السر</string>
+    <string name="deposit">ايداع</string>
+    <string name="connected_to_Internet">الانترنت متصل</string>
+    <string name="not_connected_to_internet">لا يوجد اتصال بالانترنت</string>
+    <string name="wifi_enabled">الوايفاي يعمل</string>
+    <string name="mobile_data_enabled">بيانات الهاتف تعمل</string>
+    <string name="goodbye">الي اللقاء 😢</string>
+    <string name="coom_soon">انتظرونا 🤞</string>
+    <string name="negative_money">لا يمكن إدخال الأموال السلبية</string>
+    <string name="max_deposit">أقصى إيداع 10,000</string>
+    <string name="your_favorite_arages">جراشاتك المفضله</string>
+    <string name="garage">جراش</string>
+</resources>
